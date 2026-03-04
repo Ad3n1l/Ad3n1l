@@ -1,33 +1,97 @@
-<h1 align="center">Hi 👋, I'm Daniel Kopret</h1>
-<h3 align="center">A smart Devoted, Nigerian Developer. Though I'm still learning I have built a few projects but my next is going to be the best so far if you follow me you'll get to see it but if you blink you'll miss it 😏</h3>
+<!-- Header Banner -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ad3n1l&label=Profile%20views&color=0e75b6&style=flat" alt="ad3n1l" /> </p>
+```
+██████╗  █████╗ ███╗   ██╗██╗███████╗██╗
+██╔══██╗██╔══██╗████╗  ██║██║██╔════╝██║
+██║  ██║███████║██╔██╗ ██║██║█████╗  ██║
+██║  ██║██╔══██║██║╚██╗██║██║██╔══╝  ██║
+██████╔╝██║  ██║██║ ╚████║██║███████╗███████╗
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ad3n1l" alt="ad3n1l" /></a> </p>
+### `< Daniel Kopret />` — Web Dev & Bot Builder
 
-<p align="left"> <a href="https://twitter.com/devkopret" target="blank"><img src="https://img.shields.io/twitter/follow/devkopret?logo=twitter&style=for-the-badge" alt="devkopret" /></a> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=ad3n1l&color=b5f542&style=flat-square&label=profile+views)](https://github.com/ad3n1l)
+[![Twitter Follow](https://img.shields.io/twitter/follow/devkopret?logo=twitter&style=flat-square&color=b5f542&labelColor=111111)](https://twitter.com/devkopret)
 
-- 🔭 I’m currently working on [Telegram Business Manager](https://github.com/ad3n1l/Telegram-Business-Manager)
+</div>
 
-- 🌱 I’m currently learning **Python,SQL,JAVA**
+---
 
-- 👨‍💻 All of my projects are available at [Kopret.vercel.app](Kopret.vercel.app)
+<!-- About -->
+<img align="right" width="360" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=800&color=B5F542&background=11111100&center=false&vCenter=true&multiline=true&width=360&height=120&lines=async+buildProject(idea)+%7B;++const+stack+%3D+%5B'HTML'%2C+'CSS'%2C+'JS'%5D;++;+await+design(minimal);++;+await+deployBot(telegram);++;+return+'smart+product';+%7D" />
 
-- 📫 How to reach me **devkopret@gmail.com**
+**Nigerian developer. Still learning. Shipping anyway.**
 
-- ⚡ Fun fact **I am an Abusite**
+Every project I release is better than the last — and the next one?
+It's going to be the best thing I've ever built.
+Follow along or miss it. 😏
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/devkopret" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devkopret" height="30" width="40" /></a>
-<a href="https://instagram.com/dan.kopret" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dan.kopret" height="30" width="40" /></a>
-</p>
+- 🔭 Building → **[Telegram Business Manager](https://github.com/ad3n1l/Telegram-Business-Manager)**
+- 🌱 Currently levelling up → **Python · SQL · Java**
+- 🌐 Portfolio → **[Kopret.vercel.app](https://kopret.vercel.app)**
+- 📬 Email → **devkopret@gmail.com**
+- ⚡ Fun fact → **I am an Abusite**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ad3n1l&show_icons=true&locale=en&layout=compact" alt="ad3n1l" /></p>
+<!-- Connect -->
+### Connect
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ad3n1l&show_icons=true&locale=en" alt="ad3n1l" /></p>
+[![Twitter](https://img.shields.io/badge/Twitter-@devkopret-b5f542?style=flat-square&logo=twitter&logoColor=black)](https://twitter.com/devkopret)
+[![Instagram](https://img.shields.io/badge/Instagram-@dan.kopret-b5f542?style=flat-square&logo=instagram&logoColor=black)](https://instagram.com/dan.kopret)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Kopret.vercel.app-b5f542?style=flat-square&logo=vercel&logoColor=black)](https://kopret.vercel.app)
+[![Email](https://img.shields.io/badge/Email-devkopret@gmail.com-b5f542?style=flat-square&logo=gmail&logoColor=black)](mailto:devkopret@gmail.com)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ad3n1l&" alt="ad3n1l" /></p>
+---
+
+<!-- Stack -->
+### Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+![Telegram](https://img.shields.io/badge/Telegram_Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+---
+
+<!-- Stats -->
+### Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ad3n1l&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0a0a0a&title_color=b5f542&icon_color=b5f542&text_color=f0f0f0" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad3n1l&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=b5f542&text_color=f0f0f0" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=ad3n1l&theme=tokyonight&hide_border=true&background=0a0a0a&fire=b5f542&ring=b5f542&currStreakLabel=b5f542&sideLabels=777777&dates=555555" />
+
+</div>
+
+---
+
+<!-- Trophies -->
+### Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ad3n1l&theme=onestar&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Building in public · shipping what matters · <b style="color:#b5f542">the next one's the best one.</b></sub>
+</div>
