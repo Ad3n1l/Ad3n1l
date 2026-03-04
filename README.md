@@ -74,22 +74,6 @@ Follow along or miss it. 😏
 
 </div>
 
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=ad3n1l&theme=tokyonight&hide_border=true&background=0a0a0a&fire=b5f542&ring=b5f542&currStreakLabel=b5f542&sideLabels=777777&dates=555555" />
-
-</div>
-
----
-
-<!-- Trophies -->
-### Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ad3n1l&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
