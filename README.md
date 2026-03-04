@@ -20,7 +20,7 @@
 ---
 
 <!-- About -->
-<img align="right" width="360" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=800&color=B5F542&background=11111100&center=false&vCenter=true&multiline=true&width=360&height=120&lines=async+buildProject(idea)+%7B;++const+stack+%3D+%5B'HTML'%2C+'CSS'%2C+'JS'%5D;++;+await+design(minimal);++;+await+deployBot(telegram);++;+return+'smart+product';+%7D" />
+<img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=B5F542&center=false&vCenter=true&width=380&height=22&lines=building+with+Python+%F0%9F%90%8D;crafting+Telegram+bots+%F0%9F%A4%96;writing+clean+HTML+%26+CSS+%E2%9C%A8;shipping+JavaScript+projects+%F0%9F%9A%80;the+next+one+is+the+best+one+%F0%9F%98%8F" />
 
 **Nigerian developer. Still learning. Shipping anyway.**
 
@@ -30,6 +30,7 @@ Follow along or miss it. 😏
 
 - 🔭 Building → **[Telegram Business Manager](https://github.com/ad3n1l/Telegram-Business-Manager)**
 - 🌱 Currently levelling up → **Python · SQL · Java**
+- 🔒 Most of my repos are private right now — client work, bots, and tools I'm still polishing. **Open source drops are coming.** Portfolio projects, utilities, and clean code going public soon. Stay close.
 - 🌐 Portfolio → **[Kopret.vercel.app](https://kopret.vercel.app)**
 - 📬 Email → **devkopret@gmail.com**
 - ⚡ Fun fact → **I am an Abusite**
@@ -75,7 +76,7 @@ Follow along or miss it. 😏
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=ad3n1l&theme=tokyonight&hide_border=true&background=0a0a0a&fire=b5f542&ring=b5f542&currStreakLabel=b5f542&sideLabels=777777&dates=555555" />
+<img width="70%" src="https://streak-stats.demolab.com?user=ad3n1l&theme=tokyonight&hide_border=true&background=0a0a0a&fire=b5f542&ring=b5f542&currStreakLabel=b5f542&sideLabels=777777&dates=555555" />
 
 </div>
 
@@ -86,7 +87,7 @@ Follow along or miss it. 😏
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ad3n1l&theme=onestar&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ad3n1l&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
